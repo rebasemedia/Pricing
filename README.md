@@ -1,8 +1,9 @@
 # Pricing
 
-This repository contains the prices for the different services offered by Syntax Media.
+The repository contains the prices for the different services offered by Syntax Media.
 
-**Note:** Please confirm the prices listed here on the [website](https://pradumnasaraf.dev/services/).
+> [!NOTE]
+> Please confirm the prices listed here on the [website](https://pradumnasaraf.dev/services/).
 
 | Service | Price | Description |
 | --- | --- | --- |
@@ -16,6 +17,6 @@ This repository contains the prices for the different services offered by Syntax
 | Bundle of 4 Posts (Twitter and LinkedIn) | $720 | A combination of 4 posts on Twitter and LinkedIn. The client can choose the combination. |
 | Twitter and LinkedIn (Video Bundle) | $550 | A video posted on both platforms. |
 
-Bundles are also available; you can check them out [here](https://pradumnasaraf.dev/services/bundle/).
-To see samples of the above services, check out [here](https://github.com/mediasyntax/Samples).
-For detailed information on each service and the benefits included, visit [here](https://github.com/mediasyntax/Services).
+- Bundles are also available; you can check them out [here](https://pradumnasaraf.dev/services/bundle/).
+- To see samples of the above services, check out [here](https://github.com/mediasyntax/Samples).
+- For detailed information on each service and the benefits included, visit [here](https://github.com/mediasyntax/Services).
