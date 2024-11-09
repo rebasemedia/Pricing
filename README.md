@@ -1,4 +1,4 @@
-## Pricing
+# Pricing
 
 This repository contains the prices for the different services offered by Syntax Media.
 
