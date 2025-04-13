@@ -3,7 +3,7 @@
 The repository contains the prices for the different services offered by **rebase media**.
 
 > [!NOTE]
-> Please confirm the prices listed here on the [website]([https](https://rebasemedia.com/)).
+> Please confirm the prices listed here on the [website](https://rebasemedia.com).
 
 | Service | Price | Description |
 | --- | --- | --- |
