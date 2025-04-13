@@ -3,7 +3,7 @@
 The repository contains the prices for the different services offered by **rebase media**.
 
 > [!NOTE]
-> Please confirm the prices listed here on the [website](services.pradumnasaraf.dev).
+> Please confirm the prices listed here on the [website]([https](https://rebasemedia.com/)).
 
 | Service | Price | Description |
 | --- | --- | --- |
@@ -17,6 +17,6 @@ The repository contains the prices for the different services offered by **rebas
 | Bundle of 4 Posts (Twitter and LinkedIn) | $720 | A combination of 4 posts on Twitter and LinkedIn. The client can choose the combination. |
 | Twitter and LinkedIn (Video Bundle) | $550 | A video posted on both platforms. |
 
-- Bundles are also available; you can check them out [here](https://pradumnasaraf.dev/services/bundle/).
+- Bundles are also available; you can check them out [here](https://rebasemedia.com/bundle).
 - To see samples of the above services, check out [here](https://github.com/rebasemedia/Samples).
 - For detailed information on each service and the benefits included, visit [here](https://github.com/rebasemedia/Services).
